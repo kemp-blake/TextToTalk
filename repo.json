@@ -2,7 +2,7 @@
 	{
 		"Author": "karashiiro",
 		"Name": "TextToTalk",
-		"InternalName": "Ktisis",
+		"InternalName": "TextToTalk",
 		"Description": "Chat and game dialogue TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
 		"RepoUrl": "https://github.com/kemp-blake/TextToTalk",
 		"ApplicableVersion": "any",
