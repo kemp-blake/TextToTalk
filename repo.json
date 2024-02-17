@@ -1,0 +1,13 @@
+[
+	{
+		"Author": "karashiiro",
+		"Name": "TextToTalk",
+		"InternalName": "Ktisis",
+		"Description": "Chat and game dialogue TTS. Use /tttconfig to configure the enabled channels and triggers/exceptions.",
+		"RepoUrl": "https://github.com/kemp-blake/TextToTalk",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 9,
+		"Tags": [ "tts", "trigger", "triggers", "voice", "voices", "speech", "karashiiro" ],
+		"IconUrl": "https://raw.githubusercontent.com/karashiiro/TextToTalk/main/images/icon.png",
+	}
+]
